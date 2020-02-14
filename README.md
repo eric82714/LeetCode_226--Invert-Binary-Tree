@@ -6,11 +6,11 @@ Invert a binary tree.
 
 Input:
 
-
+![image](https://github.com/eric82714/LeetCode_226--Invert-Binary-Tree/blob/master/image/input.PNG)
 
 Output:
 
-
+![image](https://github.com/eric82714/LeetCode_226--Invert-Binary-Tree/blob/master/image/output.PNG)
 
 # Trivia:
 
