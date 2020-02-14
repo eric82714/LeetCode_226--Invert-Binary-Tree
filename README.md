@@ -8,7 +8,7 @@ Input:
 
 
 
-# Output:
+Output:
 
 
 
